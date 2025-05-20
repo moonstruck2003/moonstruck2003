@@ -38,20 +38,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=moonstruck2003.moonstruck2003&left_color=darkslategrey&left_text=Profile%20Views"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/moonstruck2003/moonstruck2003/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moonstruck2003/moonstruck2003/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moonstruck2003/moonstruck2003/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/moonstruck2003/moonstruck2003/output/pacman-contribution-graph.svg">
-</picture>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=moonstruck2003.moonstruck2003&left_color=darkslategrey&left_text=Profile%20Views"  />
 
 ###
