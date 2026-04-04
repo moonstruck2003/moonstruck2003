@@ -1,57 +1,60 @@
-<h4 align="left">
-### Hey there! 👋  <br>I'm **Md. Jaliz Mahamud Mridul**, a Computer Science student at **Ahsanullah University of Science and Technology**. I'm passionate about solving real-world problems, diving into Artificial Intelligence, and building things that make sense.<br><br>🧠 Currently learning and applying **Machine Learning** — exploring the math behind the models and turning theory into working code.<br><br>🔍 I’m also working on sharpening my problem-solving mindset through consistent practice and real-world projects.<br><br>🛠️ What you'll find here:<br>- ML & AI learning projects<br>- Problem-solving practice<br>- Random builds driven by curiosity<br><br>📍 Still learning. Still building. Always leveling up.</h4>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=Md.+Jaliz+Mahamud+Mridul;Computer+Science+Student;AI+%2B+Code+%2B+Vibes+Engineering" />
+</h1>
 
-###
+<p align="center">
+  <i>Computer Science student • Professional bug negotiator</i>
+</p>
+
+---
+
+I'm **Md. Jaliz Mahamud Mridul**.
+
+Computer Science student.
+
+I write code. Sometimes it works.
+
+I build things using AI — sometimes intentionally, sometimes just vibes.<br>
+Half the time I guide the model, the other half it guides me.
+
+**Most of my time goes into:**
+- Debugging
+- Re-debugging
+- Googling things I should already know
+
+**Things I specialize in:**
+- Copy-pasting intelligently
+- Acting like I understand what's happening
+- Fixing bugs by accident
+
+**Projects here:**
+- Stuff that worked
+- Stuff that almost worked
+- Stuff I said “I’ll fix later”
+
+**Works on my machine 👍**<br>
+*Still learning. Still confused.*
+
+---
+
+<h3 align="center">📈 Activity Feed (a.k.a. what broke recently)</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moonstruck2003&theme=github-compact" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,c,cpp,dart,firebase,flutter&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=moonstruck2003.moonstruck2003&left_color=black&right_color=lime&left_text=Profile%20Views" />
+</p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=moonstruck2003&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moonstruck2003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false" height="150" alt="languages graph"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moonstruck2003/moonstruck2003/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moonstruck2003/moonstruck2003/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/moonstruck2003/moonstruck2003/output/github-snake.svg" />
+  </picture>
 </div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=moonstruck2003.moonstruck2003&left_color=darkslategrey&left_text=Profile%20Views"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/moonstruck2003/moonstruck2003/output/snake.svg" alt="" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moonstruck2003/moonstruck2003/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moonstruck2003/moonstruck2003/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/moonstruck2003/moonstruck2003/output/github-snake.svg" />
-</picture>
-
-###
