@@ -37,6 +37,18 @@ Half the time I guide the model, the other half it guides me.
 
 ---
 
+<h3 align="center">💻 What my repositories are made of</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp,dart,flutter,firebase&theme=dark" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moonstruck2003&langs_count=5&theme=vision-friendly-dark&hide_border=true" />
+</div>
+
+---
+
 <h3 align="center">📈 Activity Feed (a.k.a. what broke recently)</h3>
 
 <p align="center">
@@ -44,17 +56,5 @@ Half the time I guide the model, the other half it guides me.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,c,cpp,dart,firebase,flutter&theme=dark" />
-</p>
-
-<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=moonstruck2003.moonstruck2003&left_color=black&right_color=lime&left_text=Profile%20Views" />
 </p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moonstruck2003/moonstruck2003/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moonstruck2003/moonstruck2003/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/moonstruck2003/moonstruck2003/output/github-snake.svg" />
-  </picture>
-</div>
